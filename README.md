@@ -7,10 +7,6 @@
 
 - 📫 How to reach me **dev@bystritskii.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vlad-bystritskii&show_icons=true&theme=dark&locale=en&layout=compact" alt="vlad-bystritskii" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vlad-bystritskii&theme=dark" alt="vlad-bystritskii" /></p>
