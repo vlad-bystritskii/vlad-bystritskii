@@ -11,9 +11,6 @@
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> </p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vlad-bystritskii&show_icons=true&theme=dark&locale=en&layout=compact" alt="vlad-bystritskii" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vlad-bystritskii&theme=dark" alt="vlad-bystritskii" /></p>
